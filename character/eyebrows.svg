@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="160mm"
+   height="200mm"
+   viewBox="0 0 160 200"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="cejas.svg"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1.0484149"
+     inkscape:cx="245.13196"
+     inkscape:cy="362.45193"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,6.8046404)">
+    <g
+       id="g22"
+       inkscape:label="cejas"
+       transform="translate(-21.695841)"
+       style="display:inline">
+      <path
+         style="fill:#0b0400;fill-opacity:1;stroke-width:0.275284"
+         d="m 70.668472,67.111436 c 5.833623,-3.02398 10.225871,-2.601131 13.159723,-1.422243 2.933846,1.178865 4.409288,3.113725 4.409288,3.113725 0,0 1.299923,1.15068 -0.238792,1.982752 -1.538705,0.832089 -7.452974,-8.209314 -16.942863,-0.777558 -1.21919,0.954776 -1.485713,0.172229 -1.825525,-0.522424 -0.561439,-1.147611 1.438169,-2.374252 1.438169,-2.374252 z"
+         id="path5"
+         sodipodi:nodetypes="cscsssc"
+         inkscape:label="cejaizq" />
+      <path
+         style="fill:#0b0400;fill-opacity:1;stroke-width:0.275284"
+         d="m 131.5385,67.673282 c -5.83363,-3.023981 -10.22587,-2.60113 -13.15973,-1.422242 -2.93384,1.178866 -4.40928,3.113724 -4.40928,3.113724 0,0 -1.29992,1.150681 0.23879,1.982753 1.53871,0.832087 7.45297,-8.209314 16.94286,-0.777559 1.21919,0.954777 1.48571,0.17223 1.82554,-0.522424 0.56144,-1.14761 -1.43818,-2.374252 -1.43818,-2.374252 z"
+         id="path5-5"
+         sodipodi:nodetypes="cscsssc"
+         inkscape:label="cejader" />
+    </g>
+  </g>
+</svg>
